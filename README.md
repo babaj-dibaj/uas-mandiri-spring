@@ -1,4 +1,4 @@
-# Tugas UAS Mandiri - Spring Framework
+# Tugas UTS Mandiri - Spring Framework
 
 ## 1. Topik Pilihan: Spring Boot
 Berikut adalah penjabaran analisis menggunakan metode 5W untuk topik **Spring Boot**:
